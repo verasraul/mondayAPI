@@ -9,4 +9,5 @@
 
 - yarn add --dev parcel
 
-- yarn start mondayAPI
+- yarn start (from inside the repo/dir)
+
