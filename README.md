@@ -1,5 +1,6 @@
 # mondayAPI
 
+
 ## Prerequisites
 - Get an API key for [OMDb API](https://www.omdbapi.com/)
 
@@ -11,13 +12,20 @@ API_BASE_URL=http://omdbapi.com
 ```
 
 ## How to run app
-- npm install --global [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
+- (https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
-- cd into repo
+```
+npm install --global yarn
+cd into repo
+```
 
 - NOTE: parcel-bundler is deprecated, use this instead (from inside the repo):
 
-- yarn add --dev [parcel](https://parceljs.org/getting-started/webapp/)
+- (https://parceljs.org/getting-started/webapp/)
 
-- yarn start (from inside the repo/dir)
+- from inside the repo/dir
+
+```
+yarn add --dev parcel
+yarn start 
 
