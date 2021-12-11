@@ -1,4 +1,6 @@
 # mondayAPI
+"mondayAPI" is a website that allows you to search for your favorite movie titles and retrieve posters. 
+
 
 ## Prerequisites
 - Get an API key for [OMDb API](https://www.omdbapi.com/)
