@@ -2,8 +2,8 @@
 
 ## Requirements
 The following need to be installed:
->[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
-Parcel
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
+- [Parcel](https://parceljs.org/getting-started/webapp/)
 
 
 ## Prerequisites
