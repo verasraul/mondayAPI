@@ -4,8 +4,9 @@
 - Get an API key for [OMDb API](https://www.omdbapi.com/)
 
 - Cretate .env file inside the project folder and type the following:
-```API_KEY=<yourapikey>```
-```API_BASE_URL=http://omdbapi.com```
+
+-```API_KEY=<yourapikey>```
+-```API_BASE_URL=http://omdbapi.com```
 
 ## How to run app
 - npm install --global [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
