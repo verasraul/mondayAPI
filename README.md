@@ -1,5 +1,5 @@
 # mondayAPI
-"mondayAPI" is a website that allows you to search for your favorite movie titles and retrieve posters. 
+"mondayAPI" is a website that allows you to search for your favorite movie title's posters. 
 
 
 ## Prerequisites
