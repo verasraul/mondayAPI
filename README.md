@@ -10,18 +10,20 @@ API_BASE_URL=http://omdbapi.com
 ```
 
 The following need to be installed:
-- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
-- [Parcel](https://parceljs.org/getting-started/webapp/)
-
-## How to run app
-
+- Install [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 ```
 npm install --global yarn
-cd in/to/repo/
 ```
 
->NOTE: parcel-bundler is deprecated, use this instead (from inside the repo):
+- Install [Parcel](https://parceljs.org/getting-started/webapp/)
+>NOTE: parcel-bundler is deprecated, use this instead (from inside the repo/projec folder):
 ```
+cd in/to/repo/
 yarn add --dev parcel
+```
+
+## How to run app
+Inside repo run:
+```
 yarn start 
 ```
